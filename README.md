@@ -1,0 +1,2 @@
+# 150_CriandoTestesAutomatizadosUIAndroidKotlinEspresso
+Extraia o máximo desse desafio replicando o projeto conduzido pelos experts, com o objetivo de incluir novas funcionalidades e melhorias, tornando os seus testes ainda mais robustos e efetivos. Para isso, crie o seu próprio projeto (ou reproduza o apresentado pelos experts) , visando desenvolver seus próprios cenários de testes de UI. Vamos nessa!?  QATestesAndroidKotlinGit
