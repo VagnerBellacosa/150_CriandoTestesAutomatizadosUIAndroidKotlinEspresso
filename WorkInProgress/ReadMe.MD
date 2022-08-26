@@ -16,6 +16,18 @@
 
 02:44
 
+# Materiais de Apoio
+
+ 
+
+[Mais sobre Espresso](https://developer.android.com/training/testing/espresso)
+
+[Robot Pattern](https://jakewharton.com/testing-robots/)
+
+[Mais sobre testes](https://developer.android.com/training/testing)
+
+Bons estudos 
+
 
 
 
