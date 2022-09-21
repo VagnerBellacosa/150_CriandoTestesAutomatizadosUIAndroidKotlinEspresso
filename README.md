@@ -1,6 +1,6 @@
-#LaB
+# LaBs
 
-# ##150_CriandoTestesAutomatizadosUIAndroidKotlinEspresso
+## 150_CriandoTestesAutomatizadosUIAndroidKotlinEspresso
 
 ###### DESCRIÇÃO
 
@@ -23,9 +23,5 @@ Extraia o máximo desse desafio replicando o projeto conduzido pelos experts, co
 ###### Caroline Tenorio Ribeiro
 
 Mobile Engineer, Santander[**](https://www.linkedin.com/in/carolinetenorio/)
-
-
-
-
 
 https://web.dio.me/lab/criando-testes-automatizados-de-ui-em-android-com-kotlin-e-espresso/learning/3a68d0e8-ae85-4e0e-a1bf-8ec36b85cf71
